@@ -1,0 +1,24 @@
+{
+  "npmScope": "celeb-ads",
+  "implicitDependencies": {
+    "workspace.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "api-endorse": {
+      "tags": []
+    },
+    "endorse": {
+      "tags": []
+    },
+    "api-celebrity": {
+      "tags": []
+    },
+    "celebrity": {
+      "tags": []
+    }
+  }
+}

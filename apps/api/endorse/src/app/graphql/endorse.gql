@@ -1,0 +1,11 @@
+type Query {
+  getDescription: String
+  getEndorsements: [EndorseEntity]
+  getEndorsementByCelebId(id: Int): EndorseEntity
+}
+
+type EndorseEntity {
+  celebrity_id: Int
+  name: String
+  company_name: String
+}
