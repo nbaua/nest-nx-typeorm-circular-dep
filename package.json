@@ -43,7 +43,7 @@
     "@nestjs/typeorm": "^6.2.0",
     "apollo-server-core": "^2.9.14",
     "apollo-server-express": "^2.9.15",
-    "apollo-server-fastify": "^2.9.15",
+    "apollo-server-fastify": "^2.14.2",
     "bcryptjs": "^2.4.3",
     "class-transformer": "^0.2.3",
     "config": "^3.2.4",
